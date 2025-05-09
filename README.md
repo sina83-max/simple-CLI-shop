@@ -36,7 +36,7 @@ Follow these steps to get the project running on your local machine.
 2. **Run the Application**:
    Execute the Python script to start the CLI shop.
    ```bash
-   python shop.py
+   python main.py
    ```
 
 ---
